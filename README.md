@@ -35,4 +35,4 @@ To run the app locally:
 git clone https://github.com/Rishav-bot895/react_weather_app.git
 cd react_weather_app
 npm install
-npm run dev bash
+npm run dev
